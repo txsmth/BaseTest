@@ -2,7 +2,7 @@ package com.lemon.api;
 
 public class Constants {
 	
-	//excel路径
+	//excel路径11
 	public static final String EXCEL_PATH = "src/test/resources/test001.xlsx";
 	//excel实际响应列号
 	public static final int ACTUAL_RESPONSE_DATA_CELLNUM=5;
